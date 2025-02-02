@@ -1,0 +1,41 @@
+track_id,title,artist,genre,danceability,energy,valence,year,popularity
+s1,Flowers,Miley Cyrus,pop,0.85,0.75,0.90,2023,94
+s2,Kill Bill,SZA,r&b,0.78,0.68,0.85,2023,96
+s3,Eyes Closed,Imagine Dragons,rock,0.72,0.88,0.65,2024,89
+s4,Calm Down,Rema,afrobeats,0.91,0.80,0.93,2023,92
+s5,Freedom,Justin Bieber,pop,0.82,0.75,0.88,2024,91
+s6,Celestial,Ed Sheeran,pop,0.79,0.68,0.84,2023,88
+s7,Summer Nights,Shawn Mendes,pop,0.84,0.72,0.87,2024,90
+s8,Anti-Hero,Taylor Swift,pop,0.82,0.70,0.88,2023,97
+s9,Rich Flex,Drake,hip-hop,0.88,0.92,0.65,2023,93
+s10,As It Was,Harry Styles,pop,0.87,0.78,0.82,2023,95
+s11,Golden Hour,JVKE,pop,0.76,0.65,0.91,2023,89
+s12,Blinding Lights,The Weeknd,pop,0.92,0.85,0.78,2023,98
+s13,Water,Tyla,afropop,0.89,0.82,0.94,2024,87
+s14,Levitating,Dua Lipa,pop,0.93,0.88,0.90,2023,96
+s15,Bad Habit,Steve Lacy,r&b,0.75,0.70,0.68,2023,85
+s16,Enchanted,Taylor Swift,pop,0.68,0.60,0.72,2023,90
+s17,Thunder,Imagine Dragons,rock,0.65,0.92,0.60,2023,91
+s18,Shape of You,Ed Sheeran,pop,0.88,0.82,0.85,2023,94
+s19,Peaches,Justin Bieber,pop,0.86,0.78,0.88,2023,92
+s20,Stitches,Shawn Mendes,pop,0.79,0.75,0.80,2023,89
+s21,Believer,Imagine Dragons,rock,0.62,0.95,0.58,2023,93
+s22,Perfect,Ed Sheeran,pop,0.72,0.65,0.92,2023,95
+s23,Stay,Justin Bieber,pop,0.84,0.70,0.86,2023,94
+s24,Senorita,Shawn Mendes,pop,0.89,0.75,0.90,2023,96
+s25,Bones,Imagine Dragons,rock,0.70,0.89,0.62,2023,88
+s26,Shivers,Ed Sheeran,pop,0.87,0.80,0.84,2023,93
+s27,Intentions,Justin Bieber,pop,0.82,0.72,0.88,2023,90
+s28,Mercury,Imagine Dragons,rock,0.68,0.91,0.60,2024,87
+s29,Thinking Out Loud,Ed Sheeran,pop,0.65,0.60,0.95,2023,97
+s30,Yummy,Justin Bieber,pop,0.90,0.85,0.82,2023,91
+s31,Natural,Imagine Dragons,rock,0.63,0.93,0.55,2023,89
+s32,Photograph,Ed Sheeran,pop,0.70,0.58,0.92,2023,94
+s33,Lonely,Justin Bieber,pop,0.75,0.65,0.68,2023,86
+s34,Radioactive,Imagine Dragons,rock,0.66,0.96,0.52,2023,95
+s35,Galway Girl,Ed Sheeran,pop,0.83,0.78,0.89,2023,88
+s36,Sorry,Justin Bieber,pop,0.88,0.80,0.84,2023,93
+s37,Demons,Imagine Dragons,rock,0.60,0.90,0.50,2023,90
+s38,Love Yourself,Justin Bieber,pop,0.72,0.62,0.78,2023,94
+s39,Bad Liar,Imagine Dragons,rock,0.68,0.88,0.58,2024,85
+s40,Beautiful People,Ed Sheeran,pop,0.80,0.75,0.86,2023,89
