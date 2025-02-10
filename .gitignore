@@ -1,2 +1,6 @@
 # Ignore the folder named 'music_env'
 music_env/
+features.dat
+music_index.faiss
+__pycache__/
+million_songs.db
