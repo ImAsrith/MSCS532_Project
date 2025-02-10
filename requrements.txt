@@ -1,0 +1,7 @@
+numpy
+faiss-cpu
+psutil
+matplotlib
+pandas
+networkx
+scikit-learn
